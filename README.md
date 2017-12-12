@@ -1,2 +1,2 @@
-# IS362_Final_Project.-
+# IS362_Final_Project
 Final Project
